@@ -1,2 +1,2 @@
-pip install selenium pytest allure-pytest
-pytest -s -v -m "regression" --alluredir=./Reports
+pip install allure-behave
+behave -f allure_behave.formatter:AllureFormatter -o Reports/ features
