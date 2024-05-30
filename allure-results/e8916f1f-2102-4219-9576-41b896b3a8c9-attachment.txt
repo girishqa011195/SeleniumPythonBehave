@@ -1,1 +1,0 @@
-[32mINFO    [0m root:test_addCustomer.py:18 ************** Test_002_AddCustomer****************
